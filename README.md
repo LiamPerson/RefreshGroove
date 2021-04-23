@@ -6,7 +6,7 @@ This will allow your Groove Music player to reread all music in your specified l
 <hr>
 
 <strong>Download:</strong>
-<a href="https://github.com/YeloPartyHat/RefreshGroove/raw/master/RefreshGroove.bat" download> RefreshGroove.bat </a> <- Right click "Save link as..."
+<a href="https://raw.githubusercontent.com/YeloPartyHat/RefreshGroove/main/RefreshGroove.bat" download> RefreshGroove.bat </a> <- Right click "Save link as..."
 
 <hr>
 
